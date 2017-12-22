@@ -21,5 +21,4 @@ ERROR: Number entered must be greater than 0.
 Enter number of trials: 1000
 ```
 
-![sample-output-pa1](C:\Users\Eric\Google Drive\All\School\USC\Class Material\CSCI_455\Programming_Assigments\CSCI455_Assignment_1\sample-output-pa1.png)
-
+![sample-output-pa1](\sample-output-pa1.png)
