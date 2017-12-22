@@ -21,4 +21,4 @@ ERROR: Number entered must be greater than 0.
 Enter number of trials: 1000
 ```
 
-![sample-output-pa1](\sample-output-pa1.png)
+![sample-output-pa1](sample-output-pa1.png)
